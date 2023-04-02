@@ -16,3 +16,5 @@ share many commonalities. In particular, both
 As to where they differ, an experienced programmer knows that their syntactical differences are minor compared to their conceptual similarities. However, R admittedly has a greater ability to handle and manipulate large datasets, while MATLAB can apply the theories of linear algebra far better than R. A near-comprehensive comparison between the two languages can be found [here](https://cran.r-project.org/doc/contrib/Hiebeler-matlabR.pdf) in a PDF from the University of Maine.
 
 Let’s begin to see how MATLAB can be used to gain insight about the nature of our world through mathematical models and computation.
+
+Download the PDF above to view the report. Alternatively, you can download the .zip version to view the raw LaTeX file along with MATLAB output files.
