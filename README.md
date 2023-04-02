@@ -1,4 +1,4 @@
-# learning_matlab
+# Learning MATLAB: Beginning Scientific Computing
 
 This report contains an overview of my work in completing MATH 3607, Beginning
 Scientific Computing, a course specializing in the programming and numeric computing
