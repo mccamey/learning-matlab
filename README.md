@@ -1,5 +1,7 @@
 # Learning MATLAB: Beginning Scientific Computing
 
+Download the PDF above to [view my report](https://github.com/mccamey/learning_matlab/blob/main/matlab_summary.pdf). Alternatively, you can download the .zip version to view the raw LaTeX file along with MATLAB output files.
+
 This report contains an overview of my work in completing MATH 3607, Beginning Scientific Computing, a course specializing in the programming and numeric computing platform MATLAB at The Ohio State University during the Spring of 2023. The course was designed as an introduction to the mathematical theory of algorithms used to solve
 problems that typically arise in sciences, engineering, and finance. Specifically, several key concepts taught in this course are applicable to the main responsibilities of actuaries, data scientists, and other quantitative thinkers.
 
@@ -16,5 +18,3 @@ share many commonalities. In particular, both
 As to where they differ, an experienced programmer knows that their syntactical differences are minor compared to their conceptual similarities. However, R admittedly has a greater ability to handle and manipulate large datasets, while MATLAB can apply the theories of linear algebra far better than R. A near-comprehensive comparison between the two languages can be found [here](https://cran.r-project.org/doc/contrib/Hiebeler-matlabR.pdf) in a PDF from the University of Maine.
 
 Let’s begin to see how MATLAB can be used to gain insight about the nature of our world through mathematical models and computation.
-
-Download the PDF above to [view the report](https://github.com/mccamey/learning_matlab/blob/main/matlab_summary.pdf). Alternatively, you can download the .zip version to view the raw LaTeX file along with MATLAB output files.
