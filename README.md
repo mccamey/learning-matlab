@@ -17,4 +17,4 @@ As to where they differ, an experienced programmer knows that their syntactical 
 
 Let’s begin to see how MATLAB can be used to gain insight about the nature of our world through mathematical models and computation.
 
-Download the [PDF](https://github.com/mccamey/learning_matlab/blob/main/matlab_summary.pdf) above to view the report. Alternatively, you can download the .zip version to view the raw LaTeX file along with MATLAB output files.
+Download the PDF above to [view the report](https://github.com/mccamey/learning_matlab/blob/main/matlab_summary.pdf). Alternatively, you can download the .zip version to view the raw LaTeX file along with MATLAB output files.
